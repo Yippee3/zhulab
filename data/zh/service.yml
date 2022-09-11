@@ -1,0 +1,39 @@
+################################# Service #################################
+service:
+  enable : true
+  title : 最近发生
+  service_item :
+    # service item loop
+    - name : 0805细胞房改造完成
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : 经过不懈努力
+      
+    # service item loop
+    - name : P301S单细胞测序分析平台搭建完成
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : shiny singleshiny
+      
+    # service item loop
+    - name : CNS接收
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : 梦想还是要有的
+      
+    # service item loop
+    - name : 年入100w
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : 100也还行
+      
+    # service item loop
+    - name : 学生人数超30
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : 人挤人
+      
+    #   
+    # # service item loop
+    # - name : Networking
+    #   icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    #   
+      
+      
+      
